@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nodeuser/.android/build-cache/d169280cc8748b2eac61fa3d537a1c3b1db5b127/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/nodeuser/Nano/example/Untitled Folder/Android-GridView-Advance-Tutorial-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_bf397a6a94c269b30255205f1e7bf2ce9027de7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nodeuser/.android/build-cache/59ef69c1d908f21c1e205f33de1e76f05a6abf5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/nodeuser/Nano/example/Untitled Folder/Android-GridView-Advance-Tutorial-master/app/build/intermediates/pre-dexed/debug/classes_5360a650bd0e7d9a698b233cab12d8f84474fc65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nodeuser/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/nodeuser/Nano/example/Untitled Folder/Android-GridView-Advance-Tutorial-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_4610fe426ee65ea8ff19537f7232da7859cc3d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nodeuser/.android/build-cache/d169280cc8748b2eac61fa3d537a1c3b1db5b127/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/nodeuser/Nano/example/Untitled Folder/Android-GridView-Advance-Tutorial-master/app/build/intermediates/pre-dexed/debug/classes_c0106145edc56bc6b2b235b216959d71dfca44c9.jar" />
+    </item>
+
+</items>

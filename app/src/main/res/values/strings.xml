@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Popular Movie </string>
+    <string name="sort_popular">Most Popular Movies</string>
+    <string name="sort_rate">Highest Rated Movies</string>
+    <string name="sort_like">My Favorites</string>
+
+    <!--activity_details_view.xml strings  text about detailsactivity UI     -->
+    <string name="title_rate">Average Rate</string>
+    <string name="title_releasedate">Release Date</string>
+    <string name="title_overview">Overview</string>
+    <string name="title_title">Movie Name</string>
+    <string name="title_trailer">Trailers</string>
+    <string name="title_review">Reviews</string>
+    <string name="myparcelable">myparcelable</string>
+    <string name="pItem">Onemovie</string>
+    <string name="pItem_id">Oneid</string>
+    <string name="pTrailer">Tparcelable</string>
+    <string name="pReview">Rparcelable</string>
+
+
+    <!-- mention no Network connect                    -->
+    <string name="Net_unconnect">Please connect Network!</string>
+    <string name="Net_unconnect_R">Please connect Network to see reviews!</string>
+    <string name="Net_unconnect_T">Please connect Network to see trailers!</string>
+    <string name="MOVIE_DIS">https://api.themoviedb.org/3/movie</string>
+    <string name="MOVIE_SORT_popular">popular</string>
+    <string name="MOVIE_SORT_rate">top_rated</string>
+    <string name="MOVIE_PATH">http://image.tmdb.org/t/p/w185/</string>
+    <string name="MOVIE_DITAILS">https://api.themoviedb.org/3</string>
+
+    <!--sort by..      -->
+    <string name="sortby_popularity">popularity.desc</string>
+    <string name="sortby_rate">vote_average.desc</string>
+
+    <!--error    -->
+    <string name="no_data">No data</string>
+
+    <!--activity_details_view no data    -->
+    <string name="no_review">No Review Found</string>
+    <string name="no_trailer">No Trailer Found</string>
+
+</resources>
